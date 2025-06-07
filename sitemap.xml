@@ -8,22 +8,34 @@
 
 
 <url>
-  <loc>https://skv-sch.github.io/contact.html</loc>
-  <lastmod>2025-06-07T01:56:49+00:00</lastmod>
-  <changefreq>always</changefreq>
+  <loc>https://shanudhatirosh.github.io/Test/</loc>
+  <lastmod>2025-06-07T08:26:51+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://skv-sch.github.io/index.html</loc>
-  <lastmod>2025-06-07T01:56:49+00:00</lastmod>
-  <changefreq>always</changefreq>
+  <loc>https://shanudhatirosh.github.io/Test/about.html</loc>
+  <lastmod>2025-06-07T08:26:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://skv-sch.github.io/about.html</loc>
-  <lastmod>2025-06-07T01:56:49+00:00</lastmod>
-  <changefreq>always</changefreq>
+  <loc>https://shanudhatirosh.github.io/Test/test.html</loc>
+  <lastmod>2025-06-07T08:26:51+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shanudhatirosh.github.io/Test/news.html</loc>
+  <lastmod>2025-06-07T08:26:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shanudhatirosh.github.io/Test/index.html</loc>
+  <lastmod>2025-06-07T08:26:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shanudhatirosh.github.io/Test/contact.html</loc>
+  <lastmod>2025-06-07T08:26:51+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 

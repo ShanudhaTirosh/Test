@@ -1,3 +1,6 @@
-https://skv-sch.github.io/contact.html
-https://skv-sch.github.io/index.html
-https://skv-sch.github.io/about.html
+https://shanudhatirosh.github.io/Test/
+https://shanudhatirosh.github.io/Test/about.html
+https://shanudhatirosh.github.io/Test/test.html
+https://shanudhatirosh.github.io/Test/news.html
+https://shanudhatirosh.github.io/Test/index.html
+https://shanudhatirosh.github.io/Test/contact.html
